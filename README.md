@@ -26,4 +26,4 @@ Simulated sales dataset (CSV format).
 
 ## 📁 Files
 - sales_analysis.ipynb
-- sales_data.csv
+- sales_data_2024.csv
